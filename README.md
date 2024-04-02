@@ -6,7 +6,7 @@ AI Face Detection is a web application that utilizes the face-api.js library to 
 ### STACK
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Exclusiveideas)
 
-**Demo :**  https://spontaneous-snickerdoodle-56003f.netlify.app/
+**Demo :**  https://facedetection334.netlify.app/
 
 ### Installation Steps 
 
