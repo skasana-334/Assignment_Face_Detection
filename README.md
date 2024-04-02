@@ -2,6 +2,8 @@
 
 AI Face Detection is a web application that utilizes the face-api.js library to track the user's face and generate a list of potential facial expressions with high probability.
 
+**Demo :**  https://spontaneous-snickerdoodle-56003f.netlify.app/
+
 **Installation Steps:**
 
 **1.Begin by cloning the project repository:**
