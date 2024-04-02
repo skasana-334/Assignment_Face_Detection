@@ -11,7 +11,7 @@ AI Face Detection is a web application that utilizes the face-api.js library to 
 ### Installation Steps 
 
 **1. Begin by cloning the project repositoryg** <br />
-   ``` git clone https://github.com/Exclusiveideas/ai-face-detection.git ```
+   ``` git clone https://github.com/skasana-334/Assignment_Face_Detection.git ```
 <br />
 
 **2. Navigate to the project directory:**  <br />
